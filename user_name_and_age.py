@@ -12,3 +12,5 @@ age = int(age)
 # create a function that will take the users age and add 5 years
 users_age_plus_five = age + 5
 
+# Takes all the variables and returns a message to the user with there age plus 5. * printf - print(f"....{name}) allows you to input variables directely into the string
+print(f"Hello, {name}! In 5 years, you will be {users_age_plus_five} years old. ")
